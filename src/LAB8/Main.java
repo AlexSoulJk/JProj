@@ -1,9 +1,6 @@
 package LAB8;
 import LAB8.TestClass.TestClass;
-import java.lang.reflect.Method;
-import java.lang.reflect.Field;
 import java.lang.reflect.Modifier;
-import java.lang.reflect.Constructor;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
