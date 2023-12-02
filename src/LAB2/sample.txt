@@ -1,0 +1,2 @@
+Hello world!!
+Today we gonna test Java Scanner!
